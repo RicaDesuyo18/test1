@@ -45,8 +45,8 @@
 </form>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
-        <button type="button" class="btn btn-primary"data-dismiss="modal" id="quality">GO!</button>
+        <button type="button" class="btn btn-secondary.click" data-dismiss="modal">Cancel</button>
+        <button type="button" class="btn btn-primary.click" onclick="alert" ("press") data-dismiss="modal" id="quality">GO!</button>
       </div>
     </div>
   </div>
@@ -54,3 +54,9 @@
 </center>
 </body>
 </html>
+
+<------ this is a comment
+
+localStorage
+Storage {test_email: "rica.desuyo28@gmail.com"
+Storage {set_passord: "123456"
